@@ -1,3 +1,1 @@
-# testcgo
-# testcgo
-# testcgo
+gcc -o libperson.so -Wall -g -shared -fPIC person.c
